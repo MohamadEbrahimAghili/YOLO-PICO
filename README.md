@@ -1,5 +1,7 @@
 # YOLO-PICO
-![parameter plot - 2](https://github.com/user-attachments/assets/16d252c0-3591-4848-a139-61f65c33acc3)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/16d252c0-3591-4848-a139-61f65c33acc3" alt="parameter plot - 2">
+</div>
 
 YOLO-PICO is an innovative, lightweight model designed specifically for recognizing small objects in remote sensing (RS) imagery. By addressing the unique challenges of RS data—including variable scales, orientations, environmental influences, occlusion, and diverse lighting conditions—YOLO-PICO achieves a compelling balance of localization accuracy, recognition performance, and fast inference speeds.
 
@@ -40,7 +42,7 @@ YOLO-PICO has been extensively evaluated on popular remote sensing datasets:
 These evaluations show that YOLO-PICO not only improves recognition accuracy for small objects but also substantially reduces model size and inference time compared to its peers.
 
 ## Installation
-
+Please note that the code for YOLO-PICO will be made available after the acceptance of the paper.
 ### Requirements
 
 - Python 3.6 or higher
