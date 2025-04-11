@@ -42,7 +42,7 @@ YOLO-PICO has been extensively evaluated on popular remote sensing datasets:
 These evaluations show that YOLO-PICO not only improves recognition accuracy for small objects but also substantially reduces model size and inference time compared to its peers.
 
 ## Installation
-Please note that the code for YOLO-PICO will be made available after the acceptance of the paper.
+PLEASE NOTE THAT THE CODE FOR YOLO-PICO WILL BE MADE AVAILABLE AFTER THE PAPER IS ACCEPTED.
 ### Requirements
 
 - Python 3.6 or higher
