@@ -54,7 +54,7 @@ Clone the repository and install the necessary dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yolo-pico.git
+git clone https://github.com/MohamadEbrahimAghili/YOLO-PICO.git
 cd yolo-pico
 
 # Install dependencies
