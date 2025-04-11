@@ -55,7 +55,7 @@ Clone the repository and install the necessary dependencies:
 ```bash
 # Clone the repository
 git clone https://github.com/MohamadEbrahimAghili/YOLO-PICO.git
-cd yolo-pico
+cd YOLO-PICO-main
 
 # Install dependencies
 pip install -r requirements.txt
