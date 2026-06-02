@@ -16,7 +16,7 @@
 YOLO-PICO is an innovative, lightweight model designed specifically for recognizing small objects in remote sensing (RS) imagery. By addressing the unique challenges of RS data—including variable scales, orientations, environmental influences, occlusion, and diverse lighting conditions—YOLO-PICO achieves a compelling balance of localization accuracy, recognition performance, and fast inference speeds.
 
 ## Quick Start
-We have provided a Google Colab notebook to make running and testing YOLO-PICO as easy and rapid as possible. There is no need for manual local installation or dependency management. 
+I have provided a Google Colab notebook to make running and testing YOLO-PICO as easy and rapid as possible. There is no need for manual local installation or dependency management. 
 
 Simply click the badge below to open the notebook, connect to a free GPU, and run the proposed paper's code in your browser:
 
