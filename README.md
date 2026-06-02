@@ -22,6 +22,9 @@ Simply click the badge below to open the notebook, connect to a free GPU, and ru
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLhdnO9PGKNKWnuW2a9lpR2wEp0FhONT?usp=sharing)
 
+> [!IMPORTANT]
+> **I trained YOLO-PICO from scratch (400 epochs), but in the Colab notebook you can use COCO pretrained weights (20 epochs for quick training and testing).**
+
 ## Key Innovations
 
 - **Expansion Attention (EA) Module**  
