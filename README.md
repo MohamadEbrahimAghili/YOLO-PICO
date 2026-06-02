@@ -3,7 +3,24 @@
   <img src="https://github.com/user-attachments/assets/16d252c0-3591-4848-a139-61f65c33acc3" alt="parameter plot - 2">
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://colab.research.google.com/drive/1PLhdnO9PGKNKWnuW2a9lpR2wEp0FhONT?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200">
+  </a>
+</div>
+
+<br>
+
 YOLO-PICO is an innovative, lightweight model designed specifically for recognizing small objects in remote sensing (RS) imagery. By addressing the unique challenges of RS data—including variable scales, orientations, environmental influences, occlusion, and diverse lighting conditions—YOLO-PICO achieves a compelling balance of localization accuracy, recognition performance, and fast inference speeds.
+
+## Quick Start
+We have provided a Google Colab notebook to make running and testing YOLO-PICO as easy and rapid as possible. There is no need for manual local installation or dependency management. 
+
+Simply click the badge below to open the notebook, connect to a free GPU, and run the proposed paper's code in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLhdnO9PGKNKWnuW2a9lpR2wEp0FhONT?usp=sharing)
 
 ## Key Innovations
 
@@ -41,21 +58,23 @@ YOLO-PICO has been extensively evaluated on popular remote sensing datasets:
 
 These evaluations show that YOLO-PICO not only improves recognition accuracy for small objects but also substantially reduces model size and inference time compared to its peers.
 
-## Installation
-PLEASE NOTE THAT THE CODE FOR YOLO-PICO WILL BE MADE AVAILABLE AFTER THE PAPER IS ACCEPTED.
-### Requirements
+## Citation
 
-- Python 3.6 or higher
-- Relevant libraries (e.g., PyTorch/TensorFlow, NumPy, OpenCV, etc.)
+If you find YOLO-PICO useful in your research, please consider citing our paper:
 
-### Setup
+**Plain Text:**
+> M. E. Aghili, H. Ghassemian, and M. Imani, "YOLO-PICO: Lightweight object recognition in remote sensing images using expansion attention modules," *Pattern Recognition*, vol. 176, p. 113114, 2026. doi: [10.1016/j.patcog.2026.113114](https://doi.org/10.1016/j.patcog.2026.113114)
 
-Clone the repository and install the necessary dependencies:
+**BibTeX:**
+```bibtex
+@article{aghili2026yolopico,
+  title={YOLO-PICO: Lightweight object recognition in remote sensing images using expansion attention modules},
+  author={Aghili, Mohamad Ebrahim and Ghassemian, Hassan and Imani, Maryam},
+  journal={Pattern Recognition},
+  volume={176},
+  pages={113114},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.patcog.2026.113114}
+}
 
-```bash
-# Clone the repository
-git clone https://github.com/MohamadEbrahimAghili/YOLO-PICO.git
-cd YOLO-PICO-main
-
-# Install dependencies
-pip install -r requirements.txt
