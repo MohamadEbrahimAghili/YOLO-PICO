@@ -67,14 +67,12 @@ If you find YOLO-PICO useful in your research, please consider citing our paper:
 
 **BibTeX:**
 ```bibtex
-@article{aghili2026yolopico,
-  title={YOLO-PICO: Lightweight object recognition in remote sensing images using expansion attention modules},
+@article{aghili2026yolo,
+  title={YOLO-PICO: Lightweight Object Recognition in Remote Sensing Images using Expansion Attention Modules},
   author={Aghili, Mohamad Ebrahim and Ghassemian, Hassan and Imani, Maryam},
   journal={Pattern Recognition},
-  volume={176},
   pages={113114},
   year={2026},
-  publisher={Elsevier},
-  doi={10.1016/j.patcog.2026.113114}
+  publisher={Elsevier}
 }
 
